@@ -13,7 +13,7 @@ O sistema proposto soluciona esse problema ao integrar funcionalidades essenciai
 ## **Principais Tecnologias Utilizadas**
 ### **Frontend**
 - **Angular (15+)**
-- **TypeScript*
+- **TypeScript**
 - **Angular Material / Tailwind CSS**
   
 ### **Backend**
